@@ -14,7 +14,7 @@ Command to extract the TarDocs.tar archive to the current directory:
 
 **sudo tar -xvvf TarDocs.tar** 
 
-![Comand to extract](./Images/snap_1.png)
+![Comand to extract](./Images/snap_1.PNG)
 
 Command to create the Javaless_Doc.tar archive from the TarDocs/ directory, while excluding the TarDocs/Documents/Java directory:
 
