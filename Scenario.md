@@ -20,7 +20,7 @@ Command to create the Javaless_Doc.tar archive from the TarDocs/ directory, whil
 
 **sudo tar cvf Javaless_Docs.tar --exclude=”TarDocs/Documents/Java” TarDocs/**
 
-![Comand to create javeless and exluding java](./Images/snap_2.png)
+![Comand to create javeless and exluding java](./Images/snap_2.PNG)
 
 Command to ensure Java/ is not in the new Javaless_Docs.tar archive:
 
